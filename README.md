@@ -1,4 +1,6 @@
-### Hi there 👋
+Learning to code...
+
+...coding to learn!
 
 <!--
 **Elyman1/Elyman1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
